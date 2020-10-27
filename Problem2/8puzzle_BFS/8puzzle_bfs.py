@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Oct 27 11:57:00 2020
 
-@author: Ankitha
-"""
 
 
 def bfs(src,target):
